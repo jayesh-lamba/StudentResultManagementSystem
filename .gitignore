@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+bin/
+out/
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+*.bak
+*.tmp
+
+# PDF files (you'll generate this separately)
+PROJECT_REPORT.pdf
