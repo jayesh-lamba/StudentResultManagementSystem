@@ -79,7 +79,7 @@ The project demonstrates practical application of core Java concepts including O
 ## 📁 Project Structure
 
 ```
-pro by cur/
+StudentResultManagementSystem/
 │
 ├── src/
 │   ├── Student.java              # Student entity class
@@ -122,8 +122,8 @@ pro by cur/
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd "pro by cur"
+   git clone https://github.com/jayesh-lamba/StudentResultManagementSystem.git
+   cd StudentResultManagementSystem
    ```
 
 2. **Verify Java Installation**
@@ -134,7 +134,7 @@ pro by cur/
 
 3. **Navigate to Project Directory**
    ```bash
-   cd "pro by cur"
+   cd StudentResultManagementSystem
    ```
 
 ## 🔧 Steps to Run the Project
