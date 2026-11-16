@@ -1,0 +1,11 @@
+.git
+.gitignore
+.assetsignore
+.nojekyll
+.wrangler
+wrangler.jsonc
+src
+diagrams
+*.bat
+*.md
+*.pdf
